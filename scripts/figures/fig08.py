@@ -46,7 +46,7 @@ for i in range(2):
 snapshots(maps, titles, ['DHEM-EP', 'AMIE', 'Weimer (2005)'], ['(a)', '(b)'], np.linspace(-80, 80, 41), 'coolwarm', 'both',
           np.linspace(-80, 80, 5), 'Electric potential [kV]', 'black', 'white', 'Fig08ab_pot_snapshots', THETA, R)
 
-# (c, d) electron energy flux
+# (c, d) particle energy flux
 f = load('fig08cd_flux_snapshots.npz')
 THETA, R = polar_grid(f['mlat'], f['mlt'], wrap=1)
 maps = [[f['dhem_ap'][i], f['amie'][i], f['ovation_prime'][i]] for i in range(2)]

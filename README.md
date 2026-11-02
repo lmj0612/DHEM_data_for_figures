@@ -8,7 +8,7 @@ and a `note` with units and definitions. `scripts/figures/` holds the python scr
 | `fig02_bland_altman.npz` | 2 | cross-polar cap potential (Φpc) and hemispheric power (HP) of DHEM and AMIE, 2003 test dataset at 10-min cadence (22,186 min) |
 | `potential_bins.npz` | 3a-b, 4 | mean DHEM-EP and AMIE electric potential and their MAE; Φpc of the mean pattern and mean Φpc of the samples; mean IMF BT, Vsw and Nsw (1,000 min per bin) |
 | `flux_bins.npz` | 3c-d, 5a | mean DHEM-AP and AMIE particle energy flux and their MAE; equatorward and poleward boundaries of the auroral oval (1,000 min per SME bin) |
-| `energy_bins.npz` | 3e-f, 5b | mean DHEM-AP(E) and AMIE average energy and their MAE |
+| `energy_bins.npz` | 3e-f, 5b | mean DHEM-AP and AMIE average energy and their MAE |
 | `fig06_cpcp_event.npz` | 6 | IMF Bz and By, SYM-H, CPCP from DHEM-EP, AMIE, Weimer 2005 and DMSP F13 SSIES, 6-7 April 2000 |
 | `fig07_hp_event.npz` | 7 | IMF Bz and By, SMU and SML, HP from DHEM-AP, AMIE and OVATION Prime, AE for HP(AE), 6-7 April 2000 |
 | `fig08ab_potential_snapshots.npz` | 8a-b | convection potential patterns from DHEM-EP, AMIE and Weimer 2005 at 08:06 and 22:44 UT, 6 April 2000 |

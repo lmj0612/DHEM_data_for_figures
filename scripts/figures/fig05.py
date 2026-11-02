@@ -1,4 +1,4 @@
-"""Figure 5: bin-mean DHEM-AP energy flux (a) and DHEM-AP(E) mean energy (b) for six SME bins."""
+"""Figure 5: mean DHEM-AP particle energy flux (a) and average energy (b) for six SME bins."""
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.cm import ScalarMappable

@@ -1,4 +1,4 @@
-"""Figure 3: bin-mean DHEM / AMIE maps and MAE. (a,b) electric potential, (c,d) energy flux, (e,f) mean energy."""
+"""Figure 3: mean DHEM and AMIE maps and their MAE. (a,b) electric potential, (c,d) particle energy flux, (e,f) average energy."""
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FormatStrFormatter
