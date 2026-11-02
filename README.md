@@ -1,7 +1,7 @@
 # Data for "Diffusion-Based Deep Learning Models for High-Latitude Electrodynamics"
 
 Data plotted in Figures 2-8, one npz file per figure. Each file has the 32 x 32 grid (`mlat`: 90 to 44°, `mlt`: 0 to 23.25 h)
-and a `note` with units and definitions.
+and a `note` with units and definitions. `scripts/figures/` holds the python scripts of the figures.
 
 | file | figure | content |
 |---|---|---|
@@ -13,12 +13,6 @@ and a `note` with units and definitions.
 | `fig07_hp_event.npz` | 7 | IMF Bz and By, SMU and SML, HP from DHEM-AP, AMIE and OVATION Prime, AE for HP(AE), 6-7 April 2000 |
 | `fig08ab_potential_snapshots.npz` | 8a-b | convection potential patterns from DHEM-EP, AMIE and Weimer 2005 at 08:06 and 22:44 UT, 6 April 2000 |
 | `fig08cd_flux_snapshots.npz` | 8c-d | particle energy flux from DHEM-AP, AMIE and OVATION Prime at 16:00 and 16:47 UT, 6 April 2000 |
-
-## Draw the figures
-
-```bash
-bash scripts/figures/make_all.sh      # numpy + matplotlib, output in figures/
-```
 
 ## Sources
 
