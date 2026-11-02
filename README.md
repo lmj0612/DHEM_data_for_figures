@@ -14,5 +14,4 @@ fig08cd_flux_snapshots.npz       Fig. 8c-d   energy flux maps of DHEM-AP, AMIE a
 scripts/figures/                 python scripts of the figures: bash scripts/figures/make_all.sh (numpy, matplotlib)
 
 AMIE: Aaron J. Ridley (University of Michigan). OMNI: https://cdaweb.gsfc.nasa.gov/. SuperMAG: https://supermag.jhuapl.edu/.
-DMSP SSIES: https://cedar.openmadrigal.org/. Code and trained weights: companion Zenodo record.
-License: CC BY 4.0
+DMSP SSIES: https://cedar.openmadrigal.org/.
