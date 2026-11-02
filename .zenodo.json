@@ -1,0 +1,13 @@
+{
+  "title": "Data for \"Diffusion-Based Deep Learning Models for High-Latitude Electrodynamics\"",
+  "upload_type": "dataset",
+  "description": "Data plotted in Figures 2-8 of the paper, one npz file per figure, with the python scripts that draw the figures. See README.md.",
+  "creators": [
+    {
+      "name": "Li, Minjing",
+      "affiliation": "The University of Texas at Arlington"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0"
+}
