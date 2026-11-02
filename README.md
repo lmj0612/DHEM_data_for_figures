@@ -1,4 +1,4 @@
-Data for "Diffusion-Based Deep Learning Models for High-Latitude Electrodynamics" (Li, Deng, Ridley, and Jin, 2026, JGR Space Physics)
+Data for "Diffusion-Based Deep Learning Models for High-Latitude Electrodynamics"
 
 Data plotted in Figures 2-8, one npz file per figure (numpy). Each file has the 32 x 32 grid (mlat: 90 to 44 deg, mlt: 0 to 23.25 h)
 and a 'note' with units and definitions.
